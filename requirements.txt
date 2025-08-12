@@ -1,0 +1,12 @@
+pandas
+yfinance
+ta
+stable-baselines3[extra]
+gymnasium
+matplotlib
+openai
+jupyter
+scikit-learn
+joblib
+sb3-contrib
+numpy<2.0
