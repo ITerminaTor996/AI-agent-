@@ -8,7 +8,7 @@ from openai import OpenAI  # 导入OpenAI库，用于调用大语言模型API
 # api_key: 你的DeepSeek API密钥
 # base_url: DeepSeek API的基础URL
 client = OpenAI(
-    api_key="sk-9716b59052ad4ecfbad40a199a95ac09",    # 替换成你的 DeepSeek secret
+    api_key="",    # 替换成你的 DeepSeek secret
     base_url="https://api.deepseek.com" # 如果需要可保留/修改
 )
 
